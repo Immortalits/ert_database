@@ -1,0 +1,44 @@
+
+body {
+  background-color: gray;
+  color: antiquewhite;
+  text-align: center;
+}
+
+#content {
+  width: 50%;
+  left: 0;
+  right: 0;
+  position: relative;
+  margin: 0 auto;
+}
+
+.inputcontainer {
+  position: relative;
+  width: 50%;
+}
+
+.icon {
+  width: 50px;
+  margin: 3px;
+}
+
+.button{
+  cursor: pointer;
+}
+
+.container_ert {
+  display: flex;
+  width: 600px;
+  margin: 0 auto;
+}
+
+.container_ert label, input, select {
+  margin: 3px 5px;
+}
+
+#alapadat {
+  display: flex;
+}
+
+
